@@ -1,0 +1,3 @@
+plugins:
+  discourse-posts-sorting_enabled:
+    default: true
